@@ -13,5 +13,5 @@ A network- and energy-aware offloading decision engine that dynamically determin
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/dynamic-edge-offloading-engine.git](https://github.com/YOUR_USERNAME/dynamic-edge-offloading-engine.git)
+   git clone [https://github.com/sam-0-02/dynamic-edge-offloading-engine.git](https://github.com/sam-0-02/dynamic-edge-offloading-engine.git)
    cd dynamic-edge-offloading-engine
